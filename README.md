@@ -1,6 +1,6 @@
 # BORDERLOGIX CORE
 
-**Papua New Guinea Customs SAD Document Generator for Asycuda World**
+**Papua New Guinea SAD Document Generator for Asycuda World**
 
 BORDERLOGIX CORE is an intelligent document processing application that extracts data from shipping documents (commercial invoices, packing lists, bills of lading) and generates Asycuda World-ready XML files for PNG Customs declarations.
 
@@ -231,4 +231,4 @@ Proprietary - BORDERLOGIX PNG
 
 ---
 
-Built with ❤️ for Papua New Guinea Customs
+Built with ❤️ for Papua New Guinea Economic Opertaors
